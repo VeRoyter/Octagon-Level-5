@@ -1,6 +1,6 @@
 <template>
   <div class="home">
-    <h1>Народные видеокатры которые не стыдно купить</h1>
+    <h1>Народные видеокарты, которые не стыдно купить</h1>
     <div class="destinations">
       <router-link
           v-for="destination in destinations"
