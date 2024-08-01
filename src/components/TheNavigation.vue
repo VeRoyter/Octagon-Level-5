@@ -11,7 +11,7 @@ export default {
 
 <template>
   <div id="nav">
-    <router-link id="logo" to="/"> Видеокатры</router-link>
+    <router-link id="logo" to="/"> Видеокарты</router-link>
     <router-link
         v-for="destination in destinations"
         :key="destination.id"
